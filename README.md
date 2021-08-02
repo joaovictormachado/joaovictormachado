@@ -6,5 +6,6 @@
 
 <div>
   <a href="https://github.com/joaovictormachado"</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictormachado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictormachado)](https://github.com/joaovictormachado/github-readme-stats)
+
